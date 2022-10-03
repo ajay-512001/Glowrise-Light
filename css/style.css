@@ -226,7 +226,16 @@ body.on .bulb span:nth-child(2) {
 
 .heading {
     text-align: center;
-    padding-bottom: 3rem;
+    margin-top: 10rem;
+    margin-bottom: -5rem;
+    font-size: 4rem;
+    color: var(--black);
+}
+
+
+.heading1 {
+    text-align: center;
+    margin-bottom: 3rem;
     font-size: 4rem;
     color: var(--black);
 }
@@ -804,8 +813,8 @@ i {
 }
 
 .contact .row .map {
-    flex: 1 1 45rem;
-    width: 100%;
+    flex: 1 1 40rem;
+    width: 90%;
     padding: 2rem;
     border: var(--border);
     box-shadow: var(--box-shadow);
@@ -813,7 +822,7 @@ i {
 }
 
 .contact .row form {
-    flex: 1 1 45rem;
+    flex: 1 1 40rem;
     padding: 2rem;
     border: var(--border);
     box-shadow: var(--box-shadow);
