@@ -683,7 +683,7 @@ body.on .bulb span:nth-child(2) {
 .carding {
     position: relative;
     width: 300px;
-    height: 420px;
+    height: 200px;
     box-shadow: 0 5px 10px var(--box-shadow);
     overflow: hidden;
     justify-self: center;
@@ -720,7 +720,7 @@ body.on .bulb span:nth-child(2) {
     padding: 0 10px;
     flex-direction: column;
     justify-content: space-evenly;
-    transform: translateY(200px);
+    transform: translateY(x0px);
     transition: 0.3s;
 }
 
